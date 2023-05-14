@@ -16,5 +16,23 @@ Python 3 or above and PyQt5 are required.
 pip3 install PyQt5 lxml
 ```
 
+# 3DRF-Pos Dataset
+
+# Citation
+
+If you find our work helpful, please consider citing:
+
+```bib
+@inproceedings{yang2023sri,
+  title={SRI-Graph: A Novel Scene-Robot Interaction Graph for Robust Scene Understanding},
+  author={Yang, Dong and Xu, Xiao and Xiong, Mengchen and Babaians, Edwin and Steinbach, Eckehard},
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA), 2023},
+  year={2023}
+}
+```
+
+# Acknowledgements
+
+
 
 
