@@ -1,6 +1,6 @@
 # SRI-Graph: A Novel Scene-Robot Interaction Graph for Robust Scene Understanding
 
-This is the implementation of the paper SRI-Graph: A Novel Scene-Robot Interaction Graph for Robust Scene Understanding (ICRA 2023). This reposity will be updated soon.
+This is the implementation of the paper SRI-Graph: A Novel Scene-Robot Interaction Graph for Robust Scene Understanding (ICRA 2023). This repository will be updated soon.
 
 # Introduction
 
@@ -10,13 +10,11 @@ We propose an annotation tool LabelImg-Rel (based on [LabelImg](https://github.c
 
 ## Installation
 
-Python 3 or above and PyQt5 are required.
+Python 3 or above are required.
 
 ```
 pip3 install PyQt5 lxml
 ```
-
-# 3DRF-Pos Dataset
 
 # Citation
 
