@@ -16,6 +16,19 @@ Python 3 or above are required.
 pip3 install PyQt5 lxml
 ```
 
+## Launch Annotation Tool
+
+```
+cd LabelImg-Rel
+python labelImg-rel.py
+```
+Click the button "open dir" for choosing the dataset folder, For the annotation of bounding boxes, please follow the instruction of [LabelImg](https://github.com/heartexlabs/labelImg).
+To label the relationships, click the subject bounding box, object bounding box, and the button "Create predicate" in the left column.
+
+## Annotate on Custom Images/Datasets
+
+Change `predefined_classes.txt` (predefined object classes) and `predefined_predicates.txt` (predefined relationship classes) in the folder `LabelImg-Rel/data`.
+
 # Citation
 
 If you find our work helpful, please consider citing:
@@ -31,6 +44,7 @@ If you find our work helpful, please consider citing:
 
 # Acknowledgements
 
+Our codes are built on top of some open-source projects. Thanks for their contributions:
 
-
-
+[Scene Graph Benchmark in Pytorch](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch)
+[LabelImg](https://github.com/heartexlabs/labelImg)
