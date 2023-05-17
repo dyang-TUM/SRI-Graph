@@ -1,0 +1,4 @@
+left of
+right of
+above
+below

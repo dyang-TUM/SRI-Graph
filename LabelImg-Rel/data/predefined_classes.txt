@@ -1,0 +1,4 @@
+red container
+orange container
+yellow container
+robot manipulator
